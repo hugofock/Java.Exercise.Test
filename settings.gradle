@@ -1,0 +1,5 @@
+rootProject.name = 'Java.Exercise.Test'
+include 'question-one'
+include 'question-two'
+include 'question-three'
+
